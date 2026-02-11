@@ -1,4 +1,4 @@
-# PlacementPrep
+# PlacementPrep App
 Placement Prep is a full-stack web application designed to help students prepare effectively for technical interviews and campus placements.
 The platform provides curated interview questions, coding practice problems, study notes, and a secure user authentication system for personalized learning.
 
